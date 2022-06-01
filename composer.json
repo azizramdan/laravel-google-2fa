@@ -6,11 +6,13 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "bacon/bacon-qr-code": "^2.0",
         "guzzlehttp/guzzle": "^7.2",
         "inertiajs/inertia-laravel": "^0.5.4",
         "laravel/framework": "^9.11",
         "laravel/sanctum": "^2.8",
         "laravel/tinker": "^2.7",
+        "pragmarx/google2fa": "^8.0",
         "tightenco/ziggy": "^1.0"
     },
     "require-dev": {
